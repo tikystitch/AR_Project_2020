@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mh" size="10.000000 5.624476" />
+    <ImageTarget name="zelda" size="10.000000 10.000000" />
+    <ImageTarget name="spider-manjpg" size="10.000000 12.394737" />
+    <ImageTarget name="Pokemon-Epee-Nintendo-Switch" size="10.000000 10.000000" />
+    <ImageTarget name="ff" size="10.000000 12.457003" />
+    <ImageTarget name="animal-crossing-new-horizons" size="10.000000 16.198704" />
+  </Tracking>
+</QCARConfig>
